@@ -5,9 +5,9 @@ suma= num1 + num2
 resta= num1 - num2
 multiplicacion= num1 * num2
 
-print("suma:", suma)
-print("resta:", resta)
-print("multiplacion:", multiplicacion)
+print(suma)
+print(resta)
+print(multiplicacion)
 
 if num2== 0:
     print("error no se puede divir entre 0")

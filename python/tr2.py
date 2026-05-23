@@ -1,3 +1,3 @@
-num1 = int(input("Ingrese un numero : "))
-num2 = int(input("Ingrese el segundo número entero: "))
-print("La suma es:", num1 + num2)
+num1=int(input("ingrese el primer numero"))
+num2=int(input("ingrese segundo numero"))
+print(num1+num2)
