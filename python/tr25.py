@@ -1,0 +1,7 @@
+print("menu")
+print("1.suma")
+print("3.resta")
+print("2.divison")
+print("salir")
+opcion = int(input("Seleccione una opción: "))
+print("Usted eligió la opción", opcion)
